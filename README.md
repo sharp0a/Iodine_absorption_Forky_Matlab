@@ -1,5 +1,7 @@
-# I₂ Spectrum Calculator - Quick Start Guide
+# Iodine_absorption_Forky_Matlab
+MATLAB port of the molecular iodine absorption spectrum model by J. N. Forkey
 
+#Quick Start Guide
 ## Files Provided
 
 1. **i2spec4_optimized.m** - Core calculation engine
