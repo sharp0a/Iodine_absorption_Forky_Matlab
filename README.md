@@ -50,7 +50,7 @@ lines = i2lines2(wnlo, wnhi, 'fcfioded');
 | Parameter | Typical Range | Units | Notes |
 |-----------|--------------|-------|-------|
 | Temperature | 300-400 | K | Higher T → broader lines |
-| Pressure | 0.5-3.0 | Torr | Keep <3 for accuracy |
+| Pressure | 0.5-3.0 | Torr | Keep < 3 for accuracy |
 | Length | 10-127 | cm | Longer → stronger absorption |
 | Resolution | 0.0001-0.001 | nm | Finer → slower |
 | AETS option | 2 | - | Use Princeton for 532nm |
